@@ -7,7 +7,7 @@ public class main_class {
 
     public static void main(String[] args){
 
-        System.out.println("Hello world fn21487");
+        System.out.println("Hello world i destroy you)))");
     }
 
 
